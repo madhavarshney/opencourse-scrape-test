@@ -19,7 +19,7 @@ class JsonLinesGzipItemExporter(JsonLinesItemExporter):
 def scrape():
     process = CrawlerProcess(settings={
         'LOG_LEVEL': 'INFO',
-        'USER_AGENT'
+        'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36',
         'FEEDS': {
             'out/scrape-banner9.jl.gz': {'format': 'jl.gz'},
         },
