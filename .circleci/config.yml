@@ -9,7 +9,7 @@ orbs:
   python: circleci/python@1.2
 
 workflows:
-  sample:
+  scrape:
     jobs:
       - scrape
 
@@ -17,6 +17,7 @@ jobs:
   scrape:
     docker:
       - image: cimg/python:3.8
+        resource_class: small
 
     steps:
       - checkout
