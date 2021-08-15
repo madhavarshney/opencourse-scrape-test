@@ -1,0 +1,32 @@
+version: 2.1
+
+# Useful reference links:
+# https://circleci.com/developer/orbs/orb/circleci/python
+# https://circleci.com/docs/2.0/executor-types/
+# https://circleci.com/developer/images/image/cimg/python
+
+orbs:
+  python: circleci/python@1.2
+
+workflows:
+  sample:
+    jobs:
+      - scrape
+
+jobs:
+  scrape:
+    docker:
+      - image: cimg/python:3.8
+
+    steps:
+      - checkout
+
+      - python/install-packages:
+          pkg-manager: pip
+
+      - run:
+          name: Scrape Banner 9
+          command: python3 scrape.py
+
+      - store_artifacts:
+          path: out

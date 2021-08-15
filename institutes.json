@@ -1,0 +1,2272 @@
+[
+  {
+    "id": "fhda",
+    "name": "Foothill De Anza Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.fhda.edu/PROD/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "lake-michigan",
+    "name": "Lake Michigan College",
+    "source": {
+      "type": "banner8",
+      "url": "https://wave.lakemichigancollege.edu/PROD/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "stockton",
+    "name": "Stockton University",
+    "source": {
+      "type": "banner8",
+      "url": "https://pssb.stockton.edu/prod/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "george-mason",
+    "name": "George Mason University",
+    "source": {
+      "type": "banner8",
+      "url": "https://patriotweb.gmu.edu:9977/pls/prod/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "ua-birmingham",
+    "name": "University of Alabama at Birmingham",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb.it.uab.edu/pls/sctprod/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "framingham-state",
+    "name": "Framingham State University",
+    "source": {
+      "type": "banner8",
+      "url": "https://selfservice.framingham.edu/PROD/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "ut-knoxville",
+    "name": "University of Tennessee, Knoxville",
+    "source": {
+      "type": "banner8",
+      "url": "https://bannerssb.utk.edu/kbanpr/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "lehigh",
+    "name": "Lehigh University",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.lehigh.edu/PROD/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "wichita-state",
+    "name": "Wichita State University",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssbprod.wichita.edu/PROD/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "clark-atlanta",
+    "name": "Clark Atlanta University",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.cau.edu/PROD/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "wvm",
+    "name": "West Valley Mission Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.wvm.edu/PROD/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "uc-merced",
+    "name": "University of California, Merced",
+    "source": {
+      "type": "banner8",
+      "url": "https://mystudentrecord.ucmerced.edu/pls/PROD/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "uc-riverside",
+    "name": "University of California, Riverside",
+    "source": {
+      "type": "banner8",
+      "url": "https://banweb.ucr.edu/banprod/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "uc-san-francisco",
+    "name": "University of California, San Francisco",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.usfca.edu/PROD/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "illinois-tech",
+    "name": "Illinois Institute of Technology",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb.iit.edu/bnrprd/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "new-jersey-institute-of-technology",
+    "name": "New Jersey Institute of Technology",
+    "source": {
+      "type": "banner9",
+      "url": "https://myhub.njit.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "ui-springfield",
+    "name": "University of Illinois Springfield",
+    "source": {
+      "type": "banner8",
+      "url": "https://ui2web4.apps.uillinois.edu/BANPROD4/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-bevill-state",
+    "name": "Bevill State Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/BSCC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-bishop-state",
+    "name": "Bishop State Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/BISHOP/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-calhoun",
+    "name": "Calhoun Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/CCC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-central-alabama",
+    "name": "Central Alabama Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/CACC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-chattahoochee-valley",
+    "name": "Chattahoochee Valley Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/CVCC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-coastal-alabama",
+    "name": "Coastal Alabama Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/COASTL/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-drake-state",
+    "name": "Drake State Community & Technical College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/DRAKE/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-enterprise-state",
+    "name": "Enterprise State Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/ESCC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-gadsden-state",
+    "name": "Gadsden State Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/GSCC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-ingram-state-technical",
+    "name": "Ingram State Technical College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/ISTC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-jefferson-state",
+    "name": "Jefferson State Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/JSCC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-lawson-state",
+    "name": "Lawson State Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/LAWSON/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-lurleen-b-wallace",
+    "name": "Lurleen B. Wallace Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/LBWCC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-marion-military-institute",
+    "name": "Marion Military Institute",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/MMI/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-northeast-alabama",
+    "name": "Northeast Alabama Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/NACC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-northwest-shoals",
+    "name": "Northwest-Shoals Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/NWSCC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-reid-state-technical",
+    "name": "Reid State Technical College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/RSTC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-shelton-state",
+    "name": "Shelton State Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/SSCC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-snead-state",
+    "name": "Snead State Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/SNEAD/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-southern-union-state",
+    "name": "Southern Union State Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/SUSCC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-trenholm-state",
+    "name": "Trenholm State Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/TSCC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-wallace-dothan",
+    "name": "Wallace Community College Dothan",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/WCC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-wallace-selma",
+    "name": "Wallace Community College Selma",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/WCCS/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "accs-wallace-state",
+    "name": "Wallace State Community College",
+    "source": {
+      "type": "banner8",
+      "url": "https://ssb-prod.ec.accs.edu/PROD/WSCC/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "",
+    "name": "",
+    "source": {
+      "type": "banner9",
+      "url": "https://xessreg.pnu.edu.sa/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "west-valley-mission-community-college",
+    "name": "West Valley - Mission Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://reg-prod.ec.wvm.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "lake-sumter-state-college",
+    "name": "Lake-Sumter State College",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.lssc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "yukon-university",
+    "name": "Yukon University",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.yukonu.ca/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "washburn-university",
+    "name": "Washburn University",
+    "source": {
+      "type": "banner9",
+      "url": "https://banssb-lb-prod.washburn.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "john-carroll-university",
+    "name": "John Carroll University",
+    "source": {
+      "type": "banner9",
+      "url": "https://app2.jcu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "louisiana-community-and-technical-college-system",
+    "name": "Louisiana Community and Technical College System",
+    "source": {
+      "type": "banner9",
+      "url": "https://reg-prod.ec.lctcs.edu/StudentRegistrationSsb/",
+      "config": {
+        "mepCode": [
+          "BRCC",
+          "BPCC",
+          "DCC",
+          "FTCC",
+          "DELTA",
+          "NUNEZ",
+          "RPCC",
+          "SCLTC",
+          "SLCC",
+          "SOWELA"
+        ]
+      }
+    },
+    "todo": null,
+    "notes": [
+      "https://en.wikipedia.org/wiki/Louisiana_Community_and_Technical_College_System"
+    ]
+  },
+  {
+    "id": "suny-information-technology-exchange-center",
+    "name": "SUNY Information Technology Exchange Center",
+    "source": {
+      "type": "banner9",
+      "url": "https://ncccbanner.itec.suny.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "rowan-college-of-south-jersey",
+    "name": "Rowan College of South Jersey",
+    "source": {
+      "type": "banner9",
+      "url": "https://bsssr.rcgc.edu:8443/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "tvtc-sa",
+    "name": "TVTC",
+    "source": {
+      "type": "banner9",
+      "url": "https://xess.tvtc.gov.sa/StudentRegistrationSsbPROD/",
+      "config": {}
+    },
+    "todo": ["find actual name"],
+    "notes": null
+  },
+  {
+    "id": "university-of-the-cumberlands-in-kentucky",
+    "name": "University of the Cumberlands in Kentucky",
+    "source": {
+      "type": "banner9",
+      "url": "https://ucumb-prd-pxes02.banner.elluciancloud.com:8090/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "compton-college",
+    "name": "Compton College",
+    "source": {
+      "type": "banner9",
+      "url": "https://cmptn-prod-pxes02.banner.elluciancloud.com:8090/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-tennessee-health-science-center",
+    "name": "University of Tennessee Health Science Center",
+    "source": {
+      "type": "banner9",
+      "url": "https://bantststureg.docktest.uthsc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "dixie-state-university",
+    "name": "Dixie State University",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.dixie.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "st-norbert-college",
+    "name": "St. Norbert College",
+    "source": {
+      "type": "banner9",
+      "url": "https://cwispbanweb10.snc.edu:9463/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "eckerd-college",
+    "name": "Eckerd College",
+    "source": {
+      "type": "banner9",
+      "url": "https://ss01.ban.eckerd.edu:8443/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "uniminuto",
+    "name": "Uniminuto",
+    "source": {
+      "type": "banner9",
+      "url": "https://genesiscursos.uniminuto.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": ["check name / id"],
+    "notes": null
+  },
+  {
+    "id": "guam-community-college",
+    "name": "Guam Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://reg-prod.ec.guamcc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "south-texas-college",
+    "name": "South Texas College",
+    "source": {
+      "type": "banner9",
+      "url": "https://registration.southtexascollege.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "saudi-electronic-university",
+    "name": "Saudi Electronic University",
+    "source": {
+      "type": "banner9",
+      "url": "https://bannservices.seu.edu.sa/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "isil",
+    "name": "ISIL",
+    "source": {
+      "type": "banner9",
+      "url": "https://isilbap.isil.pe/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": ["check name / id"],
+    "notes": null
+  },
+  {
+    "id": "snow-college",
+    "name": "Snow College",
+    "source": {
+      "type": "banner9",
+      "url": "https://prod.snow.edu/StudentRegistrationSelfService/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "albion-college",
+    "name": "Albion College",
+    "source": {
+      "type": "banner9",
+      "url": "https://xe.albion.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "american-university-of-beirut",
+    "name": "American University of Beirut",
+    "source": {
+      "type": "banner9",
+      "url": "https://sturegss.aub.edu.lb/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "american-university-of-middle-east",
+    "name": "American University of Middle East",
+    "source": {
+      "type": "banner9",
+      "url": "https://reg5.aum.edu.kw:8002/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "andrews-university",
+    "name": "Andrews University",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.andrews.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "azerbaijan-diplomatic-academy",
+    "name": "Azerbaijan Diplomatic Academy",
+    "source": {
+      "type": "banner9",
+      "url": "https://reg-prod.ec.ada.edu.az/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "bethel-university",
+    "name": "Bethel University",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.bethel.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "biola-university",
+    "name": "Biola University",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.biola.edu:9020/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "canisius-college",
+    "name": "Canisius College",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.canisius.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "central-new-mexico-community-college",
+    "name": "Central New Mexico Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.cnm.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "citrus-college",
+    "name": "Citrus College",
+    "source": {
+      "type": "banner9",
+      "url": "https://sra.citruscollege.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "city-college-of-san-francisco",
+    "name": "City College of San Francisco",
+    "source": {
+      "type": "banner9",
+      "url": "https://ssb1.ccsf.edu:8105/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "clemson-university",
+    "name": "Clemson University",
+    "source": {
+      "type": "banner9",
+      "url": "https://regssb.sis.clemson.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "collin-county-community-college-district",
+    "name": "Collin County Community College District",
+    "source": {
+      "type": "banner9",
+      "url": "https://studentselfserviceapplications.collin.edu/StudentRegistrationSsbTcc/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "colorado-state-university",
+    "name": "Colorado State University",
+    "source": {
+      "type": "banner9",
+      "url": "https://bannerxe.is.colostate.edu/StudentRegistrationSsb/",
+      "config": { "mepCode": ["CSU"] }
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "columbia-greene-community-college",
+    "name": "Columbia Greene Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.sunycgcc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "community-college-of-philadelphia",
+    "name": "Community College of Philadelphia",
+    "source": {
+      "type": "banner9",
+      "url": "https://oasis.ccp.edu:4601/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "curry-college",
+    "name": "Curry College",
+    "source": {
+      "type": "banner9",
+      "url": "https://banapp1.curry.edu:8443/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "cuyahoga-community-college-district",
+    "name": "Cuyahoga Community College District",
+    "source": {
+      "type": "banner9",
+      "url": "https://banxep.tri-c.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "delaware-county-community-college",
+    "name": "Delaware County Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://prod-xe-web-a.dccc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "delaware-technical-community-college",
+    "name": "Delaware Technical Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.dtcc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "delta-state-university",
+    "name": "Delta State University",
+    "source": {
+      "type": "banner9",
+      "url": "https://banpxesa03.deltastate.edu:8100/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "denison-university",
+    "name": "Denison University",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.denison.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "duquesne-university",
+    "name": "Duquesne University",
+    "source": {
+      "type": "banner9",
+      "url": "https://bannerprodss.duq.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "earlham-college",
+    "name": "Earlham College",
+    "source": {
+      "type": "banner9",
+      "url": "https://ssb.earlham.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "eastern-new-mexico-university",
+    "name": "Eastern New Mexico University",
+    "source": {
+      "type": "banner9",
+      "url": "https://livstu.enmu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "emerson-college",
+    "name": "Emerson College",
+    "source": {
+      "type": "banner9",
+      "url": "https://bannerapp-prod.emerson.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "escuela-polit\u00e9cnica-del-ejercito",
+    "name": "Escuela Polit\u00e9cnica del Ejercito",
+    "source": {
+      "type": "banner9",
+      "url": "https://sr.espe.edu.ec/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "fairmont-state-college",
+    "name": "Fairmont State College",
+    "source": {
+      "type": "banner9",
+      "url": "https://felix.fairmontstate.edu:8445/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "fiji-national-university",
+    "name": "Fiji National University",
+    "source": {
+      "type": "banner9",
+      "url": "https://self-service.fnu.ac.fj/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "florida-atlantic-university",
+    "name": "Florida Atlantic University",
+    "source": {
+      "type": "banner9",
+      "url": "https://bannerxe.fau.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "fordham-university",
+    "name": "Fordham University",
+    "source": {
+      "type": "banner9",
+      "url": "https://reg-prod.ec.fordham.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "georgia-highlands-college",
+    "name": "Georgia Highlands College",
+    "source": {
+      "type": "banner9",
+      "url": "https://federation-west.highlands.edu:7985/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "georgia-state-university",
+    "name": "Georgia State University",
+    "source": {
+      "type": "banner9",
+      "url": "https://registration.gosolar.gsu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "gonzaga-university",
+    "name": "Gonzaga University",
+    "source": {
+      "type": "banner9",
+      "url": "https://xe.gonzaga.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "grand-valley-state-university",
+    "name": "Grand Valley State University",
+    "source": {
+      "type": "banner9",
+      "url": "https://xe3a.mybanner.gvsu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "gulf-coast-state-college",
+    "name": "Gulf Coast State College",
+    "source": {
+      "type": "banner9",
+      "url": "https://stu-reg-prod.gulfcoast.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "harford-community-college",
+    "name": "Harford Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.harford.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "harper-college",
+    "name": "Harper College",
+    "source": {
+      "type": "banner9",
+      "url": "https://stusys.harpercollege.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "harrisburg-area-community-college-harrisburg",
+    "name": "Harrisburg Area Community College - Harrisburg\"",
+    "source": {
+      "type": "banner9",
+      "url": "https://banxeappprod.hacc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "holmes-community-college",
+    "name": "Holmes Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://api.holmescc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "illinois-eastern-community-colleges",
+    "name": "Illinois Eastern Community Colleges",
+    "source": {
+      "type": "banner9",
+      "url": "https://banprodss1.iecc.edu:8447/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "ithaca-college",
+    "name": "Ithaca College",
+    "source": {
+      "type": "banner9",
+      "url": "https://homerapps.ithaca.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "johnson-wales-university",
+    "name": "Johnson & Wales University",
+    "source": {
+      "type": "banner9",
+      "url": "https://ssreg.jwu.edu:8009/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "johnson-county-community-college",
+    "name": "Johnson County Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://xess7-prod.ec.jccc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "kalamazoo-valley-community-college",
+    "name": "Kalamazoo Valley Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://registration.kvcc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "kenyon-college",
+    "name": "Kenyon College",
+    "source": {
+      "type": "banner9",
+      "url": "https://planahead.kenyon.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "king-fahad-university-of-petroleum-and-minerals",
+    "name": "King Fahad University of Petroleum and Minerals",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner9-registration.kfupm.edu.sa/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "lasalle-university",
+    "name": "LaSalle University",
+    "source": {
+      "type": "banner9",
+      "url": "https://banreg.lasalle.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "lake-michigan-college",
+    "name": "Lake Michigan College",
+    "source": {
+      "type": "banner9",
+      "url": "https://ssbprod.lakemichigancollege.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "lane-community-college",
+    "name": "Lane Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://siuslaw.lanecc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "lehigh-university",
+    "name": "Lehigh University",
+    "source": {
+      "type": "banner9",
+      "url": "https://reg-prod.ec.lehigh.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "longwood-university",
+    "name": "Longwood University",
+    "source": {
+      "type": "banner9",
+      "url": "https://my.longwood.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "loyola-marymount-university",
+    "name": "Loyola Marymount University",
+    "source": {
+      "type": "banner9",
+      "url": "https://bannerxe.lmu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "medical-college-of-wisconsin",
+    "name": "Medical College of Wisconsin",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner9ss.sis.mcw.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "middlebury-college",
+    "name": "Middlebury College",
+    "source": {
+      "type": "banner9",
+      "url": "https://reg-prod.ec.middlebury.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "misr-university-for-sience-and-technology",
+    "name": "Misr University for Sience and Technology",
+    "source": {
+      "type": "banner9",
+      "url": "https://register.must.edu.eg/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "montclair-state-university",
+    "name": "Montclair State University",
+    "source": {
+      "type": "banner9",
+      "url": "https://student-ssb-regis.montclair.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "new-mexico-junior-college",
+    "name": "New Mexico Junior College",
+    "source": {
+      "type": "banner9",
+      "url": "https://bss-prod-fin.nmjc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "nicholls-state-university",
+    "name": "Nicholls State University",
+    "source": {
+      "type": "banner9",
+      "url": "https://ssop.nicholls.edu:8444/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "northwest-arkansas-community-college",
+    "name": "NorthWest Arkansas Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://selfservice.nwacc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "northeastern-university",
+    "name": "Northeastern University",
+    "source": {
+      "type": "banner9",
+      "url": "https://nubanner.neu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "norwich-university",
+    "name": "Norwich University",
+    "source": {
+      "type": "banner9",
+      "url": "https://ssbp.norwich.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "oakland-university",
+    "name": "Oakland University",
+    "source": {
+      "type": "banner9",
+      "url": "https://bstreg.oakland.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "oakton-community-college",
+    "name": "Oakton Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.oakton.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "oberlin-college",
+    "name": "Oberlin College",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.cc.oberlin.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "oklahoma-city-university",
+    "name": "Oklahoma City University",
+    "source": {
+      "type": "banner9",
+      "url": "https://bluelink12.okcu.edu:8443/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "oklahoma-state-university",
+    "name": "Oklahoma State University",
+    "source": {
+      "type": "banner9",
+      "url": "https://studentregistrationssb.okstate.edu/StudentRegistrationSsb/",
+      "config": { "mepCode": ["OSU", "NEO", "LU", "OPSU"] }
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "oral-roberts-university",
+    "name": "Oral Roberts University",
+    "source": {
+      "type": "banner9",
+      "url": "https://vision9.oru.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "oregon-health-sciences-university",
+    "name": "Oregon Health Sciences University",
+    "source": {
+      "type": "banner9",
+      "url": "https://sisregprd.ohsu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "plymouth-state-college",
+    "name": "Plymouth State College",
+    "source": {
+      "type": "banner9",
+      "url": "https://banadmin.plymouth.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "portland-state-university",
+    "name": "Portland State University",
+    "source": {
+      "type": "banner9",
+      "url": "https://app.banner.pdx.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "prince-mohammad-bin-fahd-university",
+    "name": "Prince Mohammad Bin Fahd University",
+    "source": {
+      "type": "banner9",
+      "url": "https://prodbanregxec.pmu.edu.sa/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "purdue-university-northwest",
+    "name": "Purdue University Northwest",
+    "source": {
+      "type": "banner9",
+      "url": "https://bannerprod.pnw.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "radford-university",
+    "name": "Radford University",
+    "source": {
+      "type": "banner9",
+      "url": "https://ssbxe.radford.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "rice-university",
+    "name": "Rice University",
+    "source": {
+      "type": "banner9",
+      "url": "https://b9stu-reg-esther202010.rice.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "richard-stockton-college-of-new-jersey",
+    "name": "Richard Stockton College of New Jersey",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.stockton.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "rider-university",
+    "name": "Rider University",
+    "source": {
+      "type": "banner9",
+      "url": "https://reg-prod.ec.rider.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "rockland-community-college",
+    "name": "Rockland Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.sunyrockland.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "rowan-college",
+    "name": "Rowan College",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner9.rowan.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "saint-edwards-university",
+    "name": "Saint Edward's University",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.stedwards.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "salt-lake-community-college",
+    "name": "Salt Lake Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://lbforms.slcc.edu:8005/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "sam-houston-state-university",
+    "name": "Sam Houston State University",
+    "source": {
+      "type": "banner9",
+      "url": "https://banxeappx.shsu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "seattle-pacific-university",
+    "name": "Seattle Pacific University",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner-prod21.spu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "shippensburg-university-of-pennsylvania",
+    "name": "Shippensburg University of Pennsylvania",
+    "source": {
+      "type": "banner9",
+      "url": "https://stureg.ship.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "skidmore-college",
+    "name": "Skidmore College",
+    "source": {
+      "type": "banner9",
+      "url": "https://bannerxe.skidmore.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "slippery-rock-university-of-pennsylvania",
+    "name": "Slippery Rock University of Pennsylvania",
+    "source": {
+      "type": "banner9",
+      "url": "https://sis.sru.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "south-texas-college-of-law",
+    "name": "South Texas College of Law",
+    "source": {
+      "type": "banner9",
+      "url": "https://banapp03.stcl.edu:8443/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "southern-alberta-institute-of-technology",
+    "name": "Southern Alberta Institute of Technology",
+    "source": {
+      "type": "banner9",
+      "url": "https://sait-sust-prd-prd1-ban-ss-ssag4.sait.ca/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "southern-illinois-university-edwardsville",
+    "name": "Southern Illinois University - Edwardsville",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.siue.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "southern-utah-university",
+    "name": "Southern Utah University",
+    "source": {
+      "type": "banner9",
+      "url": "https://bannerxe.suu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "southwestern-michigan-college",
+    "name": "Southwestern Michigan College",
+    "source": {
+      "type": "banner9",
+      "url": "https://xeprod.swmich.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "suny-college-at-cortland",
+    "name": "SUNY College at Cortland",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.cortland.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "suny-college-at-geneseo",
+    "name": "SUNY College at Geneseo",
+    "source": {
+      "type": "banner9",
+      "url": "https://knightweb.geneseo.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "suny-college-of-environmental-science-and-forestry",
+    "name": "SUNY College of Environmental Science and Forestry",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.esf.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "suny-empire-state-college",
+    "name": "SUNY Empire State College",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.esc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "suny-oswego",
+    "name": "SUNY Oswego",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner-app-03.oswego.edu:8443/StudentRegistrationSSB/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "temple-university",
+    "name": "Temple University",
+    "source": {
+      "type": "banner9",
+      "url": "https://prd-xereg.temple.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "texas-am-university-college-station",
+    "name": "Texas A&M University - College Station",
+    "source": {
+      "type": "banner9",
+      "url": "https://compassxe-ssb.tamu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "texas-southern-university",
+    "name": "Texas Southern University",
+    "source": {
+      "type": "banner9",
+      "url": "https://reg-prod.ec.tsu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "thompson-rivers-university",
+    "name": "Thompson Rivers University",
+    "source": {
+      "type": "banner9",
+      "url": "https://banxessbprod.tru.ca/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "tri-county-technical-college",
+    "name": "Tri-County Technical College",
+    "source": {
+      "type": "banner9",
+      "url": "https://prodban.tctc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "universidad-nacional",
+    "name": "Universidad Nacional",
+    "source": {
+      "type": "banner9",
+      "url": "https://studentssb.una.ac.cr/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "universidad-panamericana",
+    "name": "Universidad Panamericana",
+    "source": {
+      "type": "banner9",
+      "url": "https://reg-test.banner.upana.edu.gt:8103/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "universidad-de-los-andes",
+    "name": "Universidad de Los Andes",
+    "source": {
+      "type": "banner9",
+      "url": "https://mibanner.uniandes.edu.co/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "universidad-del-caribe",
+    "name": "Universidad del Caribe",
+    "source": {
+      "type": "banner9",
+      "url": "https://inscripcion_de_asignaturas.unicaribe.edu.do/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-california-riverside",
+    "name": "University of California, Riverside",
+    "source": {
+      "type": "banner9",
+      "url": "https://registrationssb.ucr.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-central-oklahoma",
+    "name": "University of Central Oklahoma",
+    "source": {
+      "type": "banner9",
+      "url": "https://ssb.uco.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-cyprus",
+    "name": "University of Cyprus",
+    "source": {
+      "type": "banner9",
+      "url": "https://bannerss.ucy.ac.cy:8082/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-detroit-mercy",
+    "name": "University of Detroit Mercy",
+    "source": {
+      "type": "banner9",
+      "url": "https://selfservice.udmercy.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-idaho",
+    "name": "University of Idaho",
+    "source": {
+      "type": "banner9",
+      "url": "https://bannerssb4.uidaho.edu:8445/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-indianapolis",
+    "name": "University of Indianapolis",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.uindy.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-la-verne",
+    "name": "University of La Verne",
+    "source": {
+      "type": "banner9",
+      "url": "https://banregprod.laverne.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-louisiana-at-lafeyette",
+    "name": "University of Louisiana at Lafeyette",
+    "source": {
+      "type": "banner9",
+      "url": "https://reg-prod.ec.louisiana.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-mary-washington",
+    "name": "University of Mary Washington",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.umw.edu/StudentRegistrationSSB/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-michigan-ann-arbor",
+    "name": "University of Michigan - Ann Arbor",
+    "source": {
+      "type": "banner9",
+      "url": "https://apps-banner-xe6-prod.its.umd.umich.edu:7005/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-montana",
+    "name": "University of Montana",
+    "source": {
+      "type": "banner9",
+      "url": "https://ssb.umt.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-new-mexico",
+    "name": "University of New Mexico",
+    "source": {
+      "type": "banner9",
+      "url": "https://lobowebapp.unm.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-north-carolina-at-greensboro",
+    "name": "University of North Carolina at Greensboro",
+    "source": {
+      "type": "banner9",
+      "url": "https://erp-registration.uncg.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-oklahoma",
+    "name": "University of Oklahoma",
+    "source": {
+      "type": "banner9",
+      "url": "https://sis.ou.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-qatar",
+    "name": "University of Qatar",
+    "source": {
+      "type": "banner9",
+      "url": "https://ssr.qu.edu.qa/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-san-diego",
+    "name": "University of San Diego",
+    "source": {
+      "type": "banner9",
+      "url": "https://usdxe.sandiego.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-saskatchewan",
+    "name": "University of Saskatchewan",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner.usask.ca/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-tennessee-at-chattanooga",
+    "name": "University of Tennessee at Chattanooga",
+    "source": {
+      "type": "banner9",
+      "url": "https://sis-reg.utc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-tennessee-knoxville",
+    "name": "University of Tennessee, Knoxville",
+    "source": {
+      "type": "banner9",
+      "url": "https://bannerreg.utk.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-texas-rio-grande-valley",
+    "name": "University of Texas Rio Grande Valley",
+    "source": {
+      "type": "banner9",
+      "url": "https://assist.utrgv.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-west-florida",
+    "name": "University of West Florida",
+    "source": {
+      "type": "banner9",
+      "url": "https://apps.banner.uwf.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "university-of-wyoming",
+    "name": "University of Wyoming",
+    "source": {
+      "type": "banner9",
+      "url": "https://wyossb.uwyo.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "utah-state-university",
+    "name": "Utah State University",
+    "source": {
+      "type": "banner9",
+      "url": "https://ss.banner.usu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "utah-valley-uniersity",
+    "name": "Utah Valley Uniersity",
+    "source": {
+      "type": "banner9",
+      "url": "https://userve.uvu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "victoria-college",
+    "name": "Victoria College",
+    "source": {
+      "type": "banner9",
+      "url": "https://xe-stu.victoriacollege.edu/StudentRegistrationSsbTcc/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "washtenaw-community-college",
+    "name": "Washtenaw Community College",
+    "source": {
+      "type": "banner9",
+      "url": "https://banner-dev.wccnet.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "waukesha-county-technical-college",
+    "name": "Waukesha County Technical College",
+    "source": {
+      "type": "banner9",
+      "url": "https://reg-prod.ec.wctc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "wayne-state-university",
+    "name": "Wayne State University",
+    "source": {
+      "type": "banner9",
+      "url": "https://registration.wayne.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "weber-state-university",
+    "name": "Weber State University",
+    "source": {
+      "type": "banner9",
+      "url": "https://bannerprod.weber.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "west-virginia-university",
+    "name": "West Virginia University",
+    "source": {
+      "type": "banner9",
+      "url": "https://starss.wvu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "wheaton-college",
+    "name": "Wheaton College",
+    "source": {
+      "type": "banner9",
+      "url": "https://banprodselfservice.wheatonma.edu:7341/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "whittier-college",
+    "name": "Whittier College",
+    "source": {
+      "type": "banner9",
+      "url": "https://registration.whittier.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "wichita-state-university",
+    "name": "Wichita State University",
+    "source": {
+      "type": "banner9",
+      "url": "https://ssbprod.wichita.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "wilfrid-laurier-university",
+    "name": "Wilfrid Laurier University",
+    "source": {
+      "type": "banner9",
+      "url": "https://loris.wlu.ca/register/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "wilmington-university",
+    "name": "Wilmington University",
+    "source": {
+      "type": "banner9",
+      "url": "https://xessreg.erp.wilmu.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "xavier-university",
+    "name": "Xavier University",
+    "source": {
+      "type": "banner9",
+      "url": "https://reg-prod.ec.xavier.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  },
+  {
+    "id": "yavapai-college",
+    "name": "Yavapai College",
+    "source": {
+      "type": "banner9",
+      "url": "https://prod9ssb.yc.edu/StudentRegistrationSsb/",
+      "config": {}
+    },
+    "todo": null,
+    "notes": null
+  }
+]
