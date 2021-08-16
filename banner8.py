@@ -362,6 +362,7 @@ class Banner8Spider(scrapy.Spider):
         super(Banner8Spider, self).__init__(*args, **kwargs)
 
         self.institutes = institutes
+        self.miner = PublicScheduleMiner(self.logger)
 
     def start_requests(self):
         entrypoints = {'bwckschd.p_disp_dyn_sched': self.parse_schedule_sel_term}
@@ -479,7 +480,7 @@ class Banner8Spider(scrapy.Spider):
             )
 
     def parse_schedule_results(self, response):
-        for item in PublicScheduleMiner(self.logger).mine(response.text, institute=response.meta['institute'], term=response.meta['term']):
+        for item in self.miner.mine(response.text, institute=response.meta['institute'], term=response.meta['term']):
             yield {
                 'type': 'class',
                 'institute': response.meta['institute'],
