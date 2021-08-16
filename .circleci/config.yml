@@ -11,10 +11,29 @@ orbs:
 workflows:
   scrape:
     jobs:
-      - scrape
+      - scrape-banner8
+      - scrape-banner9
 
 jobs:
-  scrape:
+  scrape-banner8:
+    docker:
+      - image: cimg/python:3.8
+    resource_class: small
+
+    steps:
+      - checkout
+
+      - python/install-packages:
+          pkg-manager: pip
+
+      - run:
+          name: Scrape Banner 8
+          command: python3 scrape.py banner8
+
+      - store_artifacts:
+          path: out
+
+  scrape-banner9:
     docker:
       - image: cimg/python:3.8
     resource_class: small
@@ -27,7 +46,7 @@ jobs:
 
       - run:
           name: Scrape Banner 9
-          command: python3 scrape.py
+          command: python3 scrape.py banner9
 
       - store_artifacts:
           path: out

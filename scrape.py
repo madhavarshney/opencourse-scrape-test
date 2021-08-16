@@ -1,30 +1,56 @@
+import sys
 import gzip
+import json
 
 from scrapy.exporters import JsonLinesItemExporter
 from scrapy.crawler import CrawlerProcess
 
+from banner8 import Banner8Spider
 from banner9 import Banner9Spider
+
+SCRAPY_SETTINGS = {
+    'LOG_LEVEL': 'INFO',
+    'CONCURRENT_REQUESTS': 100,
+    'DEPTH_PRIORITY': 1,
+    'SCHEDULER_DISK_QUEUE': 'scrapy.squeues.PickleFifoDiskQueue',
+    'SCHEDULER_MEMORY_QUEUE': 'scrapy.squeues.FifoMemoryQueue',
+    'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36',
+    'FEED_EXPORTERS': {
+        'jl.gz': '__main__.JsonLinesGzipItemExporter',
+    },
+}
 
 
 # https://github.com/scrapy/scrapy/issues/2174#issuecomment-283259507
 class JsonLinesGzipItemExporter(JsonLinesItemExporter):
     def __init__(self, file, **kwargs):
-        gzfile = gzip.GzipFile(fileobj=file)
+        gzfile = gzip.GzipFile(fileobj=file, mode='wb')
         super(JsonLinesGzipItemExporter, self).__init__(gzfile, **kwargs)
 
     def finish_exporting(self):
         self.file.close()
 
 
-def scrape():
+def scrape_b8():
+    with open('institutes.json') as f:
+        institutes = json.load(f)
+
     process = CrawlerProcess(settings={
-        'LOG_LEVEL': 'INFO',
-        'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36',
+        **SCRAPY_SETTINGS,
+        'FEEDS': {
+            'out/scrape-banner8.jl.gz': {'format': 'jl.gz'},
+        },
+    })
+
+    process.crawl(Banner8Spider, [i for i in institutes if i['source']['type'] == 'banner8'][:1])
+    process.start()
+
+
+def scrape_b9():
+    process = CrawlerProcess(settings={
+        **SCRAPY_SETTINGS,
         'FEEDS': {
             'out/scrape-banner9.jl.gz': {'format': 'jl.gz'},
-        },
-        'FEED_EXPORTERS': {
-            'jl.gz': '__main__.JsonLinesGzipItemExporter',
         },
     })
 
@@ -33,4 +59,15 @@ def scrape():
 
 
 if __name__ == '__main__':
-    scrape()
+    try:
+        spider = sys.argv[1]
+    except IndexError:
+        print('No spider specified. Choose either "banner8" or "banner9".')
+        sys.exit(1)
+
+    if spider == 'banner8':
+        scrape_b8()
+    elif spider == 'banner9':
+        scrape_b9()
+    else:
+        print('Unknown spider specified. Choose either "banner8" or "banner9".')
