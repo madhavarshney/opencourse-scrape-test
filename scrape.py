@@ -42,7 +42,7 @@ def scrape_b8():
         },
     })
 
-    process.crawl(Banner8Spider, [i for i in institutes if i['source']['type'] == 'banner8'][:1])
+    process.crawl(Banner8Spider, [i for i in institutes if i['source']['type'] == 'banner8'])
     process.start()
 
 
