@@ -1,0 +1,29 @@
+name: Scrape
+
+on:
+  push:
+    branches-ignore:
+      - '**'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Scrape Banner
+      run: python scrape.py both
+
+    - uses: actions/upload-artifact@v2
+      with:
+        name: scrape-data
+        path: out/*.jl.gz
