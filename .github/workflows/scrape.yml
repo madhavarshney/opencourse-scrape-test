@@ -3,7 +3,7 @@ name: Scrape
 on: workflow_dispatch
 
 jobs:
-  scrape:
+  scrape-banner-v8:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,7 +18,29 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Scrape Banner
-      run: python scrape.py both
+      run: python scrape.py banner8
+
+    - uses: actions/upload-artifact@v2
+      with:
+        name: scrape-data
+        path: out/*.jl.gz
+
+  scrape-banner-v9:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Scrape Banner
+      run: python scrape.py banner9
 
     - uses: actions/upload-artifact@v2
       with:

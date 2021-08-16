@@ -39,8 +39,6 @@ def scrape_b8():
 
     process = CrawlerProcess(settings={
         **SCRAPY_SETTINGS,
-        # 'JOBDIR': 'out/crawls/banner8/',
-        # 'CONCURRENT_REQUESTS': 40,
         'FEEDS': {
             'out/scrape-banner8.jl.gz': {'format': 'jl.gz'},
         },
@@ -53,8 +51,6 @@ def scrape_b8():
 def scrape_b9():
     process = CrawlerProcess(settings={
         **SCRAPY_SETTINGS,
-        # 'JOBDIR': 'out/crawls/banner9/',
-        # 'CONCURRENT_REQUESTS': 100,
         'FEEDS': {
             'out/scrape-banner9.jl.gz': {'format': 'jl.gz'},
         },
