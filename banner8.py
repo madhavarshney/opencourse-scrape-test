@@ -51,7 +51,7 @@ from bs4 import BeautifulSoup
 class BaseHooks:
     DATE_FORMAT = ['%b %d, %Y', '%d-%b-%Y'] # '%d-%b-%Y'
     TIME_FORMAT = '%I:%M %p' # '%H:%M'
-    UNITS_STR = [' Credits']
+    UNITS_STR = [' Credits', ' Continuing Education Units']
 
     PUBLIC_SCHED_TH_CLASSNAME = 'ddtitle'
     PUBLIC_SCHED_TD_CLASSNAME = 'dddefault'

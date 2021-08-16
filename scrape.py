@@ -10,8 +10,10 @@ from banner9 import Banner9Spider
 
 SCRAPY_SETTINGS = {
     'LOG_LEVEL': 'INFO',
-    'DEPTH_PRIORITY': 1,
     'CONCURRENT_REQUESTS': 150,
+    'CONCURRENT_REQUESTS_PER_DOMAIN': 2,
+    'DOWNLOAD_DELAY': 0.25,
+    'DEPTH_PRIORITY': 1,
     'SCHEDULER_DISK_QUEUE': 'scrapy.squeues.PickleFifoDiskQueue',
     'SCHEDULER_MEMORY_QUEUE': 'scrapy.squeues.FifoMemoryQueue',
     'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36',
